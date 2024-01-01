@@ -1,0 +1,12 @@
+.blocksWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #24e0ed;
+  background-color: rgba(23, 72, 150, 0.9);
+}
