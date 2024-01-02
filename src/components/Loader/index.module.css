@@ -7,6 +7,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #24e0ed;
-  background-color: rgba(23, 72, 150, 0.9);
+  background-color: rgba(23, 72, 150, 0.3);
 }

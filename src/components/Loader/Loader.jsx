@@ -7,7 +7,7 @@ const Loader = () => {
       <Blocks
         height="100"
         width="100"
-        color="#6666de"
+        color="#3ca2dd"
         ariaLabel="blocks-loading"
         wrapperStyle={{}}
         wrapperClass="blocks-wrapper"
